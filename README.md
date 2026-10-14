@@ -29,11 +29,11 @@ WSL(Ubuntu) 환경에서 C 언어로 파이프(pipe), `dup2`, FIFO(이름 있는
 
 받는 쪽 (터미널 A: `./3_fifo_read`)
 
-![FIFO 받는 쪽 실행](3_fifo_run_png.png)
+![FIFO 받는 쪽 실행](3_fifo_run.png)
 
 보내는 쪽 (터미널 B: `./4_fifo_write 사과 바나나 배`)
 
-![FIFO 보내는 쪽 실행](3_fifo_unlink_png.png)
+![FIFO 보내는 쪽 실행](3_fifo_unlink.png)
 
 ## 3. AI 사용 내용
 - 사용한 AI: Claude
